@@ -7,8 +7,8 @@ Get information about cricketers such as the country they represent, date of bir
 and the position they play as. Similarly, query about cricketing venues such as their
 capacity, location and facilities. All the data is fetched from the Sportmonk API 
 hence you will need your own API token to run this application."""
-maintainer: ["Rao Ali Hasan"]
-authors: ["Rao Ali Hasan"]
+maintainer: ["Ali Hasan"]
+authors: ["Ali Hasan"]
 tags: ["cricket" "sportmonk"]
 homepage: "https://github.com/raoalihasan1/cricklytic"
 bug-reports: "https://github.com/raoalihasan1/cricklytic/issues"
