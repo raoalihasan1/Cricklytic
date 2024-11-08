@@ -1,0 +1,16 @@
+(library
+ (name cricklytic)
+ (libraries async cohttp cohttp-async core jsonaf textutils.ascii_table uri)
+ (inline_tests)
+ (preprocess
+  (pps
+   ppx_compare
+   ppx_enumerate
+   ppx_expect
+   ppx_fields_conv
+   ppx_jsonaf_conv
+   ppx_let
+   ppx_sexp_conv
+   ppx_sexp_message
+   ppx_string
+   ppx_string_conv)))
