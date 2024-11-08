@@ -1,0 +1,4 @@
+(executable
+ (public_name cricklytic)
+ (name main)
+ (libraries cricklytic core_unix.command_unix))
