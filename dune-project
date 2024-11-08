@@ -7,9 +7,9 @@
 (source
  (github raoalihasan1/cricklytic))
 
-(authors "Rao Ali Hasan")
+(authors "Ali Hasan")
 
-(maintainers "Rao Ali Hasan")
+(maintainers "Ali Hasan")
 
 (package
  (name cricklytic)
